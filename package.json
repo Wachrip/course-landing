@@ -12,17 +12,19 @@
   },
   "author": "Sergey Rubets",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/sergeyamator/itvdn-landing/issues"
-  },
-  "homepage": "https://github.com/sergeyamator/itvdn-landing#readme",
+  "bugs": {},
   "devDependencies": {
-    "browser-sync": "^2.18.8",
-    "gulp": "github:gulpjs/gulp#4.0",
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
     "gulp-pug": "^3.3.0",
-    "gulp-rename": "^1.2.2",
-    "gulp-sass": "^3.1.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^3.2.1",
     "gulp.spritesmith": "^6.3.0",
-    "rimraf": "^2.6.1"
+    "rimraf": "^2.7.1"
+  },
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "node-sass": "^6.0.1",
+    "normalize.scss": "^0.1.0"
   }
 }
