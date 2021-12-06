@@ -6,7 +6,12 @@
 @import "global/base.scss";
 @import "global/common.scss";
 @import "global/button.scss";
+@import "global/sprite.scss";
+@import "global/icons.scss";
+@import "global/mixins.scss";
 
+@import "sections/title.scss";
 @import "sections/header.scss";
 @import "sections/navs.scss";
 @import "sections/hero.scss";
+@import "sections/about.scss";
