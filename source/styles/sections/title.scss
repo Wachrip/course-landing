@@ -1,5 +1,5 @@
 .title {
-  margin-bottom: 65px;
+  margin-bottom: 63px;
   text-align: center;
 
   &__header {
@@ -20,7 +20,7 @@
     &::after {
       @include center-x();
 
-      content: "";
+      content: '';
       bottom: -16px;
       width: 47px;
       height: 5px;
